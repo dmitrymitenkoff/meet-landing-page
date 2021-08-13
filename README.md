@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub URL: [https://github.com/dmitrymitenkoff/meet-landing-page](https://github.com/dmitrymitenkoff/meet-landing-page)
+- Live Site URL: [Meet Landing Page](https://meet-landing-page-dun.vercel.app/)
 
 ## My process
 
