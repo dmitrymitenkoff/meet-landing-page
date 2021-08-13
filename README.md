@@ -71,7 +71,7 @@ In future projects, I'm planning to focus on developing the layouts using the gr
 
 ### Useful resources
 
-- [<hr>: The Thematic Break Horizontal Rule element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr) - This helped me for making my html more semantic. Applying styles to the element is straightforward. 
+- [The Thematic Break Horizontal Rule element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr) - This helped me for making my html more semantic. Applying styles to the element is straightforward. 
 - [Media Queries for Standard Devices - an overview](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - This is a handy overview and provides and updated information for a variety of devices and best practising for setting up media queries.  
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/) - This is an amazing article which helped me center the entire content of the page. I'd recommend it to anyone still learning this concept as it features a number of ways for centering elements on a page, especially using the mordern technology such as flexbox and grid. 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is a flexbox bible and I think every developer already uses this source, as I think it's the best explanation of how various flex properties behave.  
