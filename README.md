@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- GitHub URL: [https://github.com/dmitrymitenkoff/meet-landing-page](https://github.com/dmitrymitenkoff/meet-landing-page)
+- GitHub URL: [GitHub](https://github.com/dmitrymitenkoff/meet-landing-page)
 - Live Site URL: [Meet Landing Page](https://meet-landing-page-dun.vercel.app/)
 
 ## My process
